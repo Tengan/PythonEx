@@ -8,4 +8,3 @@ tam = int(tam)
 vel = int(vel)
 
 print('O arquivo sera baixado em %s min aproximadamente'  %( tam/(vel*60) ))
-print('eh isso')
